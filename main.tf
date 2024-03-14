@@ -7,6 +7,6 @@ subscription_id = "853976da-1943-482f-be67-2d729c61ef50"
   tenant_id       = "e8ac314e-8e13-4ff3-ad6c-ccba99ae326d"
 }
 resource "azurerm_resource_group" "example" {
-  name     = "linux-rg1"
+  name     = "linux-HRS-123"
   location = "eastus"
 }
